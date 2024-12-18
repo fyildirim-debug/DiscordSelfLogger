@@ -1,0 +1,38 @@
+{
+  "status": {
+    "online": "çevrimiçi",
+    "idle": "boşta",
+    "dnd": "rahatsız etmeyin",
+    "offline": "çevrimdışı",
+    "unknown": "bilinmiyor",
+    "action": "Durum Değiştirdi"
+  },
+  "music": {
+    "started": "Müzik Dinlemeye Başladı",
+    "changed": "Müzik Değiştirdi",
+    "stopped": "Müzik Dinlemeyi Bıraktı",
+    "song": "Şarkı",
+    "artist": "Sanatçı",
+    "album": "Albüm",
+    "previous_song": "Önceki Şarkı",
+    "new_song": "Yeni Şarkı",
+    "last_song": "Son Dinlenen Şarkı",
+    "unknown_song": "Bilinmeyen Şarkı",
+    "unknown_artist": "Bilinmeyen Sanatçı",
+    "unknown_album": "Bilinmeyen Albüm"
+  },
+  "game": {
+    "started": "Oyun Oynamaya Başladı",
+    "changed": "Oyun Değiştirdi",
+    "stopped": "Oyun Oynamayı Bıraktı",
+    "game": "Oyun",
+    "detail": "Detay",
+    "status": "Durum",
+    "previous_game": "Eski Oyun",
+    "new_game": "Yeni Oyun",
+    "play_time": "Oynama Süresi",
+    "hours": "saat",
+    "minutes": "dakika",
+    "unknown": "Bilinmiyor"
+  }
+}

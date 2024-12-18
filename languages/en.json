@@ -1,0 +1,38 @@
+{
+  "status": {
+    "online": "online",
+    "idle": "idle",
+    "dnd": "do not disturb",
+    "offline": "offline",
+    "unknown": "unknown",
+    "action": "Status Changed"
+  },
+  "music": {
+    "started": "Started Listening Music",
+    "changed": "Changed Music",
+    "stopped": "Stopped Listening Music",
+    "song": "Song",
+    "artist": "Artist",
+    "album": "Album",
+    "previous_song": "Previous Song",
+    "new_song": "New Song",
+    "last_song": "Last Song",
+    "unknown_song": "Unknown Song",
+    "unknown_artist": "Unknown Artist",
+    "unknown_album": "Unknown Album"
+  },
+  "game": {
+    "started": "Started Playing Game",
+    "changed": "Changed Game",
+    "stopped": "Stopped Playing Game",
+    "game": "Game",
+    "detail": "Detail",
+    "status": "Status",
+    "previous_game": "Previous Game",
+    "new_game": "New Game",
+    "play_time": "Play Time",
+    "hours": "hours",
+    "minutes": "minutes",
+    "unknown": "Unknown"
+  }
+}

@@ -1,4 +1,3 @@
-```markdown
 # DiscordSelfLogger
 
 [English](#english) | [Türkçe](#türkçe)

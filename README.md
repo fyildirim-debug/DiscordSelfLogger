@@ -244,3 +244,4 @@ This project is for educational purposes only. / Bu proje sadece eğitim amaçl�
 ---
 
 Made with ❤️ by [FurkanYILDIRIM.com](https://FurkanYILDIRIM.com)
+[![Visitors](http://fysunucu.com/profilecounter/counter_badge.php?key=302cf58618496c7e08f16cc3454519e8)](http://fysunucu.com/profilecounter/counter_badge.php?key=73c7df77b22257734237ee007f34060b)
